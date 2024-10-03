@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Finnce_Api.props" />
+</Project>

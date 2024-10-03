@@ -1,0 +1,76 @@
+<div>
+  <mat-toolbar color="">
+    <div class="logo-container">
+      <div class="logo">
+        <div class="log o-container">
+          <button (click)="drawer.toggle()" mat-icon-button>
+            <mat-icon>menu</mat-icon>
+          </button>
+          FINNCE
+        </div>
+      </div>
+    </div>
+    <div class="menu-items">
+      <mat-button-toggle-group>
+        <mat-button-toggle routerLink="dashboards"><mat-icon>home</mat-icon> Página Principal</mat-button-toggle>
+        <mat-button-toggle routerLink="contas"><mat-icon>account_balance_wallet</mat-icon>Contas</mat-button-toggle>
+        <mat-button-toggle (click)="toggleNotificationCard()">
+          <mat-icon>notifications</mat-icon> Notificações
+        </mat-button-toggle>
+        <mat-button-toggle-group>
+          <mat-button-toggle *ngIf="!isAuthenticated" routerLink="Login">
+            <mat-icon>login</mat-icon>Login
+          </mat-button-toggle>
+          <mat-button-toggle *ngIf="isAuthenticated" (click)="logout()" >
+            <mat-icon>logout</mat-icon>Logout
+          </mat-button-toggle>
+        </mat-button-toggle-group>
+      </mat-button-toggle-group>
+    </div>
+  </mat-toolbar>
+</div>
+<mat-divider></mat-divider>
+<mat-drawer-container autosize>
+  <mat-drawer #drawer opened="true" mode="side" position="start">
+    <mat-nav-list>
+      <mat-list-item>
+        <mat-button-toggle routerLink="despesas">
+          <mat-icon>money_off</mat-icon> Despesas </mat-button-toggle>
+      </mat-list-item> 
+       <mat-list-item>
+        <mat-button-toggle routerLink="receitas">
+          <mat-icon>add_circle</mat-icon> Receitas </mat-button-toggle>
+      </mat-list-item>
+      <mat-list-item>
+        <mat-button-toggle routerLink="transacoes">
+          <mat-icon>list</mat-icon> Transações </mat-button-toggle>
+      </mat-list-item>
+    
+      <mat-list-item>
+        <mat-button-toggle routerLink="entidade">
+          <mat-icon>local_convenience_store</mat-icon> Entidades </mat-button-toggle>
+      </mat-list-item>
+      <mat-list-item>
+        <mat-button-toggle routerLink="wiki">
+          <mat-icon>info</mat-icon> Wiki </mat-button-toggle>
+      </mat-list-item>
+      <mat-list-item>
+        <mat-button-toggle routerLink="perfil">
+          <mat-icon>account_circle</mat-icon> Perfil </mat-button-toggle>
+      </mat-list-item>
+    </mat-nav-list>
+  </mat-drawer>
+    <mat-drawer-content>
+      <router-outlet></router-outlet>
+      <ng-toast [style]="{width:'300px'}"></ng-toast>
+      <div *ngIf="notificationCardOpen" class="notification-card">
+        <h3>Notificações</h3>
+        <p>Este é um card de notificação em branco.</p>
+        <a routerLink="notification">
+          <button>Ver mais</button>
+        </a>
+      </div>
+    </mat-drawer-content>
+</mat-drawer-container>
+
+

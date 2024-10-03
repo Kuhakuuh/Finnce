@@ -1,0 +1,15 @@
+<mat-card class="entity-container">
+    <mat-card-title>Histórico de Notificações</mat-card-title>
+    <mat-card-content>
+      <mat-list>
+        <mat-list-item *ngFor="let notification of NotificationArray">
+          <mat-card-content class="notification">
+            <p> {{ notification.name }} |  {{notification.message }} </p>
+
+            <button mat-icon-button color="black" (click)="deleteNotification(notification.id)"><mat-icon>delete</mat-icon></button>
+            
+          </mat-card-content>
+        </mat-list-item>
+      </mat-list>
+    </mat-card-content>
+  </mat-card>

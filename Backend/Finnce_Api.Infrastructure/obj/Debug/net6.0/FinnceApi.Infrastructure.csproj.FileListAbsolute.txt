@@ -1,0 +1,5 @@
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\FinnceApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\FinnceApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\FinnceApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\FinnceApi.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\FinnceApi.Infrastructure.csproj.CoreCompileInputs.cache

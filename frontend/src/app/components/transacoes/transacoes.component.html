@@ -1,0 +1,57 @@
+<mat-card>
+    <mat-card-content>
+
+        <mat-form-field class="descriptionTransaction">
+            <mat-label>Nome</mat-label>
+            <input matInput typer="text" id="descriptionTransaction" name="descriptionTransaction" [(ngModel)]="descriptionTransaction"/>
+        </mat-form-field>
+
+
+        <mat-form-field>
+            <mat-label>Tipo</mat-label>
+            <mat-select value="Todas" [(ngModel)]="tipoConta">
+            <mat-option *ngFor="let tipo of tipos" [value]="tipo">{{
+                tipo    
+            }}</mat-option>
+            </mat-select >
+        </mat-form-field>
+
+      <mat-form-field>
+      <mat-label>Categoria</mat-label>
+        <mat-select [(ngModel)]="categoria">
+          <mat-option *ngFor="let category of categoriesArray" [value]="category">{{
+            category.name
+          }}</mat-option>
+        </mat-select >
+      </mat-form-field>
+
+      <button mat-raised-button color="primary" (click)="pesquisa()"><mat-icon>search</mat-icon>Pesquisar</button>
+
+      <button mat-raised-button color="primary" (click)="clear()"><mat-icon>clear</mat-icon>Clear</button>
+
+    </mat-card-content>
+    <mat-divider></mat-divider>
+    <mat-card-content>
+    <table mat-table [dataSource]="DisplayTransactionArray">
+      <!-- colunas -->
+      <ng-container matColumnDef="description">
+        <th mat-header-cell *matHeaderCellDef class="Name-Rows"> Description </th>
+        <td mat-cell *matCellDef="let transaction" > {{transaction.descriptionDisplay}} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="amount">
+        <th mat-header-cell *matHeaderCellDef class="Name-Rows"> Valor </th>
+        <td mat-cell *matCellDef="let transaction"> {{transaction.amount}}€ </td>
+      </ng-container>
+
+      <ng-container matColumnDef="date">
+        <th mat-header-cell *matHeaderCellDef class="Name-Rows"> Data </th>
+        <td mat-cell *matCellDef="let transaction"> {{transaction.dateBokeed}} </td>
+      </ng-container>
+
+      <!-- Linhas  -->
+      <tr mat-header-row *matHeaderRowDef="displayedTable"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedTable" ></tr>
+    </table>
+  </mat-card-content>
+</mat-card>

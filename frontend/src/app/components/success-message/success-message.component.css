@@ -1,0 +1,33 @@
+.success-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 300px;
+    margin: 20px auto;
+  }
+  
+  .success-message span {
+    margin-left: 10px;
+  }
+  
+  /* Definição da animação */
+  :host {
+    display: block;
+  }
+  
+  .fadeInOut {
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  .fadeInOut.ng-enter {
+    opacity: 0;
+  }
+  
+  .fadeInOut.ng-enter-active {
+    opacity: 1;
+  }
+  

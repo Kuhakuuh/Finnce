@@ -1,0 +1,125 @@
+<mat-tab-group [color]="null" animationDuration="900ms">
+  <mat-tab>
+    <ng-template mat-tab-label>
+      <mat-icon>visibility</mat-icon>
+      Visão geral
+    </ng-template>
+    <mat-grid-list cols="2" rowHeight="1:1">
+      <mat-grid-tile>
+        <mat-card class="form-container ">
+          <h1>Ultimas 5 Despesas</h1>
+          <div *ngFor="let expense of lastExpenses()">
+            <mat-card class="lastExpense-card">
+              <mat-card-title>{{ expense.descriptionDisplay }}</mat-card-title>
+              <mat-card-subtitle>Data: {{ formatDisplayDate( expense.dateBokeed ) }}</mat-card-subtitle>
+              <mat-card-title> Montante: {{ expense.amount }}€</mat-card-title>
+            </mat-card>
+          </div>
+        </mat-card>
+      </mat-grid-tile>
+      <mat-grid-tile>
+        <br>
+        <mat-card class="form-container ">
+          <mat-card-title> Adicionar Despesas</mat-card-title>
+          <form [formGroup]="AddExpenseForm">
+            <mat-form-field floatLabel="always">
+              <mat-label>Valor</mat-label>
+              <input matInput type="number" id="valor" class="example-right-align" placeholder="0"
+                formControlName="value">
+              <span matTextPrefix>€&nbsp;</span>
+            </mat-form-field>
+
+            <mat-form-field>
+              <mat-label>Categoria</mat-label>
+              <mat-select formControlName="category">
+                <mat-option *ngFor="let category of categoriesArray" [value]="category">{{
+                  category.name
+                  }}</mat-option>
+              </mat-select>
+            </mat-form-field>
+            <mat-form-field>
+              <mat-label>Conta</mat-label>
+              <mat-select formControlName="conta">
+                <mat-option *ngFor="let conta of contasArray" [value]="conta">{{
+                  conta.name
+                  }}</mat-option>
+              </mat-select>
+            </mat-form-field>
+
+            <mat-form-field>
+              <mat-label>Data</mat-label>
+              <input matInput [matDatepicker]="picker" formControlName="date">
+              <mat-hint>MM/DD/YYYY</mat-hint>
+              <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+              <mat-datepicker #picker></mat-datepicker>
+              <mat-error *ngIf="AddExpenseForm.get('date')">
+                Por favor, insira uma data válida.
+              </mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+              <mat-label>Descrição</mat-label>
+              <textarea matInput type="text" id="decription" name="decription" formControlName="decription"
+                required></textarea>
+            </mat-form-field>
+            <mat-button-toggle [disabled]="!AddExpenseForm.valid"
+              (click)="createExpense()"><mat-icon>add_circle</mat-icon>Adicionar Despesa</mat-button-toggle>
+          </form>
+
+        </mat-card>
+      </mat-grid-tile>
+    </mat-grid-list>
+  </mat-tab>
+
+  <mat-tab>
+    <ng-template mat-tab-label>
+      <mat-icon>draw</mat-icon>
+      Categorizar despesas
+    </ng-template>
+    <!-- table-component.component.html -->
+    <table>
+      <thead>
+        <tr>
+          <th>Descrição</th>
+          <th>Valor</th>
+          <th>Data</th>
+          <th>Editar</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of notCategorizedExpenses">
+          <td>{{ item.descriptionDisplay }}</td>
+          <td>{{ item.amount }} €</td>
+          <td>{{ formatDisplayDate( item.dateBokeed ) }}</td>
+          <td>
+            <button mat-icon-button color="primary" (click)="edit(item)">
+              <mat-icon>edit</mat-icon>
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <mat-card class="edit">
+      <div *ngIf=editingMode class="editCategory">
+        <mat-form-field>
+        <mat-label> Selecione a Categoria</mat-label>
+        <mat-select  name="updateCategory" [(ngModel)]="updateCategory" >
+          <mat-option *ngFor="let category of categoriesArray" [value]="category">{{
+            category.name
+            }}</mat-option>
+        </mat-select>
+      </mat-form-field>
+
+      </div>
+      <div *ngIf=editingMode class="editCategory">
+        <button mat-raised-button (click)="update()">Atualizar</button>
+        <button mat-raised-button (click)="canceledit()">Cancelar</button>
+      </div>
+      </mat-card>
+
+
+
+
+  </mat-tab>
+</mat-tab-group>

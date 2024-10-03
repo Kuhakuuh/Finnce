@@ -1,0 +1,62 @@
+
+  :host {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+  }
+  mat-card-header{
+    display: flex;
+    justify-content: center;
+  }
+  .form-container mat-card {
+    background-color: rgb(243, 243, 243);
+  }
+  mat-card-content {
+    display: flex;
+    justify-content: center;
+    margin: 30px 100px;
+  }
+
+  .error {
+    padding: 16px;
+    width: 300px;
+    color: white;
+    background-color: red;
+  }
+
+  mat-button-toggle{
+    background-color: rgba(116, 120, 122, 0.445);
+    color: black;
+  
+  }
+  .ButtonSaver, .ButtonCreater {
+ 
+    padding: 16px;
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px; 
+    background-color: rgba(116, 120, 122, 0.445);
+  }
+  
+  mat-card-title{
+    margin-top: 50px; 
+    text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  width: 100%;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  }
+.full-width{
+  padding: 16px;
+    width: 450px;
+}
+ 
+  .contentCard{
+    
+    width: 300px;
+  }
+
+

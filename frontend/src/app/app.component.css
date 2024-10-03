@@ -1,0 +1,7 @@
+.toast-class {
+    /* Define o posicionamento para o início da página */
+    position: fixed;
+    top: 20px;
+    left: 20px;
+  }
+  

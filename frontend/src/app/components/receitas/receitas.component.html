@@ -1,0 +1,65 @@
+
+<mat-grid-list cols="2" rowHeight="1:1">
+    <mat-grid-tile>
+          <mat-card class="form-container ">
+            <h1>Ultimas 5 Receitas</h1>
+            <div *ngFor="let revenue of lastRevenue()">
+              <mat-card class="lastExpense-card">
+                      <mat-card-title>{{ revenue.descriptionDisplay }}</mat-card-title>
+                      <mat-card-subtitle >Data:  {{ formatDisplayDate( revenue.dateBokeed ) }}</mat-card-subtitle>
+                      <mat-card-title> Montante: + {{ revenue.amount }}€</mat-card-title>
+              </mat-card>
+            </div>
+          </mat-card>
+    </mat-grid-tile>
+    <mat-grid-tile>
+        <mat-card class="form-container ">
+            <mat-card-title> Adicionar Receitas</mat-card-title>
+            <form [formGroup]="AddRevenueForm" >
+              <mat-form-field floatLabel="always">
+                <mat-label>Valor</mat-label>
+                <input matInput type="number" id="valor" class="example-right-align" placeholder="0" formControlName="value">
+                <span matTextPrefix>€&nbsp;</span>
+              </mat-form-field>
+  
+              <mat-form-field>
+                <mat-label>Categoria</mat-label>
+                <mat-select formControlName="category">
+                  <mat-option *ngFor="let category of categoriesArray" [value]="category">{{
+                    category.name
+                  }}</mat-option>
+                </mat-select >
+              </mat-form-field>
+  
+  
+            <mat-form-field>
+              <mat-label>Conta</mat-label>
+              <mat-select formControlName="conta">
+                <mat-option *ngFor="let conta of contasArray" [value]="conta">{{
+                  conta.name
+                }}</mat-option>
+              </mat-select >
+            </mat-form-field>
+  
+            <mat-form-field>
+              <mat-label>Data</mat-label>
+                      <input matInput [matDatepicker]="picker" formControlName="date" >
+                      <mat-hint>MM/DD/YYYY</mat-hint>
+                      <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+                      <mat-datepicker #picker></mat-datepicker>
+                      
+                      <mat-error *ngIf="AddRevenueForm.get('dataNascimento')">
+                        Por favor, insira uma data válida.
+                      </mat-error>
+            </mat-form-field>
+      
+            <mat-form-field>
+              <mat-label>Descrição</mat-label>
+              <textarea matInput type="text" id="decription" name="decription" formControlName="decription" required ></textarea>
+            </mat-form-field>
+            <mat-button-toggle  [disabled]="!AddRevenueForm.valid" (click)="createRevenue()"><mat-icon>add_circle</mat-icon>Adicionar Receita</mat-button-toggle>
+          </form>
+        </mat-card>
+        
+    </mat-grid-tile>
+</mat-grid-list>

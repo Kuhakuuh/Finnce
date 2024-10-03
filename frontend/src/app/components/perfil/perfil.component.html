@@ -1,0 +1,116 @@
+<mat-card-content>
+
+    <mat-card>
+
+        <mat-card-header>
+            <mat-card-title class="editProfile">Editar Perfil</mat-card-title>
+        </mat-card-header>
+        <mat-card-content class="contentCard">
+
+            <div class="row">
+
+
+
+
+
+                <mat-accordion>
+
+                    <mat-expansion-panel (opened)="panelOpenState = true" (closed)="panelOpenState = false">
+                        <mat-expansion-panel-header>
+                            <mat-panel-title>
+                                Editar Perfil
+                            </mat-panel-title>
+
+                        </mat-expansion-panel-header>
+                        <form [formGroup]="profileForm" class="form-container">
+                            <div>
+                                <mat-form-field class="full-width">
+                                    <mat-label>Digite o seu novo nome</mat-label>
+                                    <input formControlName="nome" matInput placeholder="Digite o seu Nome">
+                                </mat-form-field>
+                            </div>
+
+                            <div>
+
+                                <mat-form-field class="full-width">
+                                    <mat-label>Digite o seu novo email</mat-label>
+                                    <input formControlName="email" matInput placeholder="Digite o seu email">
+                                </mat-form-field>
+                            </div>
+                            <div>
+                                <mat-form-field class="full-width">
+                                    <mat-label>Digite a sua nova password</mat-label>
+                                    <input type="password" formControlName="password" matInput
+                                        placeholder="Digite a sua password">
+                                </mat-form-field>
+
+                            </div>
+
+                            <mat-card-actions>
+                                <button (click)="saveForm()" mat-raised-button class="ButtonSaver">Guarda
+                                    informação</button>
+
+                            </mat-card-actions>
+
+                        </form>
+                    </mat-expansion-panel>
+                </mat-accordion>
+
+                <mat-accordion>
+
+                    <mat-expansion-panel (opened)="panelOpenState = true" (closed)="panelOpenState = false">
+
+                        
+                            <mat-expansion-panel-header>
+                                <mat-panel-title>
+                                    Adicionar Json Contas Manual
+                                </mat-panel-title>
+
+                            </mat-expansion-panel-header>
+<form [formGroup]="TextForm" class="form-container">
+
+                            <mat-form-field class="TextArea">
+                                <mat-label>Adicione aqui o json</mat-label>
+                                <textarea matInput formControlName="jsonAccount"></textarea>
+                            </mat-form-field>
+                            <button (click)="saveAccount()" mat-raised-button class="ButtonSaver">Guardar
+                                informação</button>
+
+                        </form>
+                    </mat-expansion-panel>
+                </mat-accordion>
+
+                <mat-accordion>
+
+                    <mat-expansion-panel (opened)="panelOpenState = true" (closed)="panelOpenState = false">
+                        <mat-expansion-panel-header>
+                            <mat-panel-title>
+                                Adicionar Json Transações Manual
+                            </mat-panel-title>
+
+                        </mat-expansion-panel-header>
+                        <form [formGroup]="TextForm" class="form-container">
+                        <mat-form-field class="TextArea">
+                            <mat-label>Adicione aqui o json</mat-label>
+                            <textarea matInput formControlName="jsonTransactions"></textarea>
+                        </mat-form-field>
+                        <button (click)="saveTransaction()" mat-raised-button class="ButtonSaver">Guardar
+                            informação</button>
+                    </form>
+                    </mat-expansion-panel>
+                </mat-accordion>
+
+                <mat-card-actions>
+                    <button (click)="ConectTink()" mat-raised-button class="ButtonTink">Conectar minhas contas
+                        bancárias</button>
+
+                </mat-card-actions>
+
+                <br>
+
+
+            </div>
+        </mat-card-content>
+    </mat-card>
+
+</mat-card-content>

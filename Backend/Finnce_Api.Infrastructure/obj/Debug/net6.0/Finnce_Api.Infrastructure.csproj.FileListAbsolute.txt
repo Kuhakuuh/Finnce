@@ -1,0 +1,254 @@
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\BackEndFinnce\Finnce_Api\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\zelui\Desktop\Finnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\zelui\Desktop\Finncegithub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\zelui\Documents\GitHub\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\zelui\Desktop\BackEndFinnce\BackEndFinnce\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\Tiago Lopes\Desktop\lds\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\elafa\Desktop\BackEndLDS\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\zelui\Desktop\finncerep\backend\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\zelui\Desktop\Finnce_Repositorio\BackEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\José Rebelo\Desktop\AndroidStudio\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\zelui\Desktop\Projetos\BackEndFinnce\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\appsettings.json
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.deps.json
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.runtimeconfig.json
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.dll
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\bin\Debug\net6.0\Finnce_Api.core.pdb
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.AssemblyInfo.cs
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.csproj.CopyComplete
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.dll
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\refint\Finnce_Api.Infrastructure.dll
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.pdb
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\Finnce_Api.Infrastructure.genruntimeconfig.cache
+C:\Users\Tiago Lopes\Desktop\lds\FrontEnd\grupo8_lds_23_24\Backend\Finnce_Api.Infrastructure\obj\Debug\net6.0\ref\Finnce_Api.Infrastructure.dll

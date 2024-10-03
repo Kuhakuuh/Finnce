@@ -1,0 +1,42 @@
+<mat-card class="addEntity">
+  <mat-card-title>Adicionar Entidade</mat-card-title>
+  <mat-card-content>
+    <form (submit)="onSubmit()">
+      <mat-form-field>
+        <input matInput placeholder="Nome da Entidade" name="entityName" [(ngModel)]="entityName" required>
+      </mat-form-field>
+      <button mat-raised-button type="submit">Adicionar Entidade</button>
+    </form>
+  </mat-card-content>
+</mat-card>
+
+<mat-card class="entity-container">
+  <mat-card-title>Lista de Entidades</mat-card-title>
+  <mat-card-content>
+    <mat-list>
+      <mat-list-item *ngFor="let entity of entities">
+        <mat-card-content class="entidade">
+          <p>{{ entity.name }}</p>
+          <div>
+          <button mat-icon-button color="black" (click)="edit(entity.id,entity.name)"><mat-icon>edit</mat-icon></button>
+          <!--Remover a funcionar mas oculto que falta adicionar condições devido a relacionamento com transações existentes-->
+          <!---<button mat-icon-button color="warn" (click)="removeEntity(entity.id)"><mat-icon>delete</mat-icon></button>-->
+          </div>
+        </mat-card-content>
+      </mat-list-item>
+    </mat-list>
+  </mat-card-content>
+</mat-card>
+
+<mat-card class="edit">
+<div *ngIf=editingMode class="editEntity">
+  <mat-form-field>
+    <input matInput [placeholder]="updateName" name="updateNameInput" [(ngModel)]="updateName" required>
+  </mat-form-field>
+</div>
+<div *ngIf=editingMode class="editEntity">
+  <button mat-raised-button (click)="canceledit()">Cancelar</button>
+  <button mat-raised-button (click)="updateEntity()">Atualizar</button>
+</div>
+</mat-card>
+

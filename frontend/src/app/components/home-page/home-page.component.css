@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center; 
+  }
+
+  .sidenav {
+    padding: 10px;
+    width: 200px; 
+    position: fixed; 
+    z-index: 1; 
+    top: 56px; 
+    left: 0;
+    overflow-x: hidden; 
+    height: calc(100% - 128px);
+    border: 1px solid #000; 
+  }
+
+  .mat-button-toggle-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+  }
+  
+  .mat-button-toggle {
+    color: #717D96;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    line-height: 24px;
+    padding: 12px 0;
+    text-align: left;
+  }
+
+  .toast-class {
+    
+    position: fixed;
+    top: 20px;
+    left: 20px;
+  }
+  

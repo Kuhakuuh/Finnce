@@ -1,0 +1,105 @@
+button.mat-icon-button {
+  border-radius: 50%;
+}
+
+.form-container {
+  max-width: 500px;
+  margin: auto;
+  padding: 30px;
+  border: 2px solid #797a7a;
+  
+}
+.form-container mat-card {
+  background-color: rgb(243, 243, 243);
+}
+.vertical-details {
+  display: flex;
+  flex-direction: column;
+}
+
+mat-button-toggle{
+  background-color: rgba(116, 120, 122, 0.445);
+  color: black;
+
+}
+mat-card-content table tr {
+  cursor: pointer;
+  
+  transition: background-color 0.3s;
+}
+mat-card-content table tr:hover {
+  background-color: #9e97a0; 
+}
+mat-card-content table th:hover {
+  background-color: #343c44;
+}
+mat-card-content table th {
+  cursor: pointer;
+  background-color: #586574; 
+  color: white;
+  padding: 10px;
+}
+mat-card-content > p {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 3px;
+}
+.Name-Rows {
+  font-size: 15px;
+  font-weight: bold;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+mat-form-field {
+  width: 100%;
+  margin-bottom: 16px;
+}
+.Table-Container{
+  max-width: 100%;
+  display: flex;
+align-items: center;
+
+border: 1px;
+border-radius: 60px;
+border-color: black;
+}
+.mat-mdc-table{
+--mat-table-row-item-outline-width:3px;
+}
+
+.mat-form-field,
+.mat-slide-toggle,
+.mat-select,
+.mat-input-element,
+textarea {
+  margin-bottom: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.mat-select {
+  width: 100%;
+}
+.mat-slide-toggle {
+  display: block;
+  margin-bottom: 16px;
+}
+.mat-slide-toggle.mat-checked {
+  color: green;
+}
+.example-container mat-form-field + mat-form-field {
+  margin-left: 8px;
+}
+
+.example-right-align {
+  text-align: right;
+}
+
+input.example-right-align::-webkit-outer-spin-button,
+input.example-right-align::-webkit-inner-spin-button {
+  display: none;
+}
+
+

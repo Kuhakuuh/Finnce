@@ -1,0 +1,75 @@
+:host {
+  display: flex;
+  justify-content: center;
+  
+}
+mat-card-header {
+
+  display: flex;
+  justify-content: center;
+}
+
+mat-card-content {
+  
+  display: flex;
+  justify-content: center;
+  margin: 0px 100px;
+
+}
+
+.error {
+  padding: 16px;
+  width: 300px;
+  color: white;
+  background-color: red;
+}
+
+.ButtonSaver, .ButtonCreater {
+ 
+  padding: 10px;
+  width: 100%; 
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px; 
+  background-color: rgba(116, 120, 122, 0.445);
+}
+.ButtonTink {
+  padding: 10px !important;
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+  margin-top: 10px !important;
+
+  background-color: #89a976 !important;
+  color: #ffffff !important;
+  border: none !important;
+}
+.ButtonTink:hover {
+  background-color: #7a7e80; 
+}
+.TextArea{
+  width: 100%
+}
+.mat-accordion{
+  width: 100px;
+  height: 50px;
+  padding: 10px;
+ 
+  
+}
+
+mat-card-title {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.full-width {
+  padding: 16px;
+  width: 450px;
+}
+

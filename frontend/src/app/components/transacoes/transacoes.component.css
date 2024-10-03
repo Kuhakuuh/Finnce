@@ -1,0 +1,68 @@
+/* Adiciona espaçamento vertical entre os mat-form-field */
+mat-form-field {
+    margin-right: 20px; /* ou qualquer valor desejado para o espaçamento vertical */
+  }
+
+mat-form-field.idTransaction {
+    width: 500px; /* ou qualquer valor desejado para o width */
+  }
+  
+  /* Adiciona espaçamento horizontal entre os elementos do mat-card-content */
+  mat-card-content {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  /* Ajusta o alinhamento do rótulo */
+  mat-label {
+    font-weight: bold;
+  }
+  
+  /* Adiciona margem inferior para a última mat-form-field */
+  mat-form-field:last-child {
+    margin-bottom: 0;
+    align-self: center;
+  }
+
+  button{
+    align-self: center;
+  }
+
+  .Table-Container{
+    max-width: 100%;
+    display: flex;
+  align-items: center;
+  
+  border: 1px;
+  border-radius: 60px;
+  border-color: black;
+  }
+  .mat-mdc-table{
+  --mat-table-row-item-outline-width:3px;
+  }
+  mat-card-content table tr {
+    cursor: pointer;
+    
+    transition: background-color 0.3s;
+  }
+  mat-card-content table tr:hover {
+    background-color: #9e97a0; 
+  }
+  mat-card-content table th:hover {
+    background-color: #343c44;
+  }
+  mat-card-content table th {
+    cursor: pointer;
+    background-color: #586574; 
+    color: black;
+    padding: 10px;
+  }
+  mat-card-content > p {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 3px;
+  }
+  .Name-Rows {
+    font-size: 15px;
+    font-weight: bold;
+  }

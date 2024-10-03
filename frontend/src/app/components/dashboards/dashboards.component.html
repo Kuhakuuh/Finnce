@@ -1,0 +1,41 @@
+<div class="dashboard-container">
+  <div class="dashboard-cards-container">
+    <div class="value-cards" style="width: 100%;">
+      <mat-card class="value-card">
+        <mat-card-content [ngStyle]="{'color': receitasNoAno ? 'green' : 'black'}">
+          <mat-card-content>Receitas Anual: {{ receitasNoAno | currency:'EUR' }}</mat-card-content>
+        </mat-card-content>
+      </mat-card>
+      <mat-card class="value-card">
+        <mat-card-content [ngStyle]="{'color': despesasNoAno ? 'red' : 'black'}">
+          <mat-card-content> Despesas Anual: {{ despesasNoAno | currency:'EUR' }}</mat-card-content>
+        </mat-card-content>
+      </mat-card>
+      <mat-card class="value-card">
+        <mat-card-content [ngStyle]="{'color': receitasValue ? 'green' : 'black'}">
+          <mat-card-content>Receitas Mensal: {{ receitasValue | currency:'EUR' }}</mat-card-content>
+        </mat-card-content>
+      </mat-card>
+      <mat-card class="value-card1" >
+        <mat-card-content [ngStyle]="{'color': despesasValue ? 'red' : 'black'}">
+
+          <mat-card-content>Despesas Mensal: {{ despesasValue | currency:'EUR' }}</mat-card-content>
+        </mat-card-content>
+      </mat-card>
+    </div>
+
+    <mat-card class="dashboard-card">
+      <h4>Overall Anual</h4>
+      <app-bar-chart></app-bar-chart>
+    </mat-card>
+    <mat-card class="dashboard-card">
+      <h4>Despesas por categoria</h4>
+      <app-pie-chart></app-pie-chart>
+    </mat-card>
+    <mat-card class="dashboard-card">
+      <h4>Depesas e receitas ao longo do ano</h4>
+      <app-line-charts></app-line-charts>
+    </mat-card>
+
+  </div>
+</div>
